@@ -1,7 +1,7 @@
 ## Создана новая ветка awesome-feature  
   
-*Название ветки awesome-feature  
+* Название ветки awesome-feature  
 
 ## В ветке awesome-feature, создан новый файл  
   
-*Название файла Additional.md
+* Название файла Additional.md
