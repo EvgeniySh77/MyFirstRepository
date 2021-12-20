@@ -2,4 +2,7 @@
   
 * Файл назван Addition.md  
   
+* Изменили файл Addition.md в ветке awesome-feature
+* Файл назван Addition.md  
+  
 * Изменили файл Addition.md в ветке master
